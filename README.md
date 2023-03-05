@@ -38,7 +38,6 @@ That's why I won't be responsible for any damage caused by this script if you us
 - [👁️・Features Explanation](#explanation)
 - [📝・Changelog](#changelog)
 - [🦜・Injection](https://github.com/Red60sapphire/BuckledPepper-Inject)
-- [🕵️‍♂️・Credits](#forkedfrom)
 - [💼・Term](#terms)
 
 
@@ -225,12 +224,6 @@ v2.3.9.5 2023-31-01
 
 ### Contributors (BuckledTeam)
 - Red60
-
-### <a id="forkedfrom"></a>🕵️‍♂️ 〢 Forked From:
-- Hazard Grabber
-- PirateStealer
-- Wasp-stealer
-- Builder by Luna token grabber 
 
 
 ### <a id="terms"></a>💼 〢 Terms Of Usage
