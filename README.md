@@ -1,7 +1,7 @@
 # BuckledPepper Grabber v2.3
 
 ![](https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/nowFUD.png)
-##### BuckledPepper Codes is fully undetectable, the only detections are the fault of pyinstaller we recommend to use Cx_Freeze to compile it
+##### BuckledPepper Codes are fully undetectable, the only detections are the fault of pyinstaller we recommend to use Cx_Freeze to compile it
 
 
 ##### [:gem: Premium](https://discord.gg/n3YTbgqtR8)
