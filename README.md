@@ -26,7 +26,7 @@ That's why I won't be responsible for any damage caused by this script if you us
 
 **NOTE:** 
 - BuckledPepper was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
-- You got an error? you've find a bug? join the discord or create an issue!
+- You got an error? you've find a bug? join the discord or create a ticket!
 
 ---
 
