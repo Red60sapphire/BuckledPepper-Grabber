@@ -221,17 +221,10 @@ v2.3.9.5 2023-31-01
 
 
 ### Authors
-- [@KSCH](https://github.com/KSCHdsc)
-- [@NotFubukIl](https://github.com/NotFubukIl)
-- [@HisSlot](https://github.com/HisSlot)
-- [@Sans](https://github.com/002-sans)
-- [@loTus](https://github.com/loTus04)
+- [@Red60](https://github.com/Red60sapphire)
 
 ### Contributors (CapingTeam)
-- Xenis
-- Nono1337
-- Irax212
-- Shamroks
+- Red60
 
 ### <a id="forkedfrom"></a>🕵️‍♂️ 〢 Forked From:
 - Hazard Grabber
