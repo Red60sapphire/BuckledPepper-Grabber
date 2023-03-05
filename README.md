@@ -97,7 +97,7 @@ That's why I won't be responsible for any damage caused by this script if you us
 @BuckledPepper: Here put your Discord Webhook you can find it in your 
 "DISCORD CHANNEL OPTIONS" > "INTEGRATION" > "CREATE A WEBHOOK"
 ```
-![](https://media.discordapp.net/attachments/912038729626058853/1062467782446420049/image.png)
+![](https://cdn.discordapp.com/attachments/1059352863735808071/1082011546659602553/image.png)
 ```d
 @BuckledPepper: Here put your final file name like "BuckledPepper_is_best" or "Red60_the_Goat" 🤓
 ```
