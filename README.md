@@ -223,7 +223,7 @@ v2.3.9.5 2023-31-01
 ### Authors
 - [@Red60](https://github.com/Red60sapphire)
 
-### Contributors (CapingTeam)
+### Contributors (BuckledTeam)
 - Red60
 
 ### <a id="forkedfrom"></a>🕵️‍♂️ 〢 Forked From:
