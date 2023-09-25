@@ -1,4 +1,4 @@
-import os
+import oss
 import sys
 import subprocess
 import argparse
