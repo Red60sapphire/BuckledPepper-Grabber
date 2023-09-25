@@ -4,11 +4,11 @@
 ##### BuckledPepper Codes are fully undetectable, the only detections are the fault of pyinstaller we recommend to use Cx_Freeze to compile it
 
 
-##### [:gem: Premium](https://discord.gg/n3YTbgqtR8)
+##### [:gem: Premium](https://discord.gg/97P9XhxBPU)
 
 
 <h1 align="center">
- https://discord.gg/n3YTbgqtR8
+ [https://discord.gg/97P9XhxBPU]
 </h1>
 
 
@@ -32,7 +32,7 @@ That's why I won't be responsible for any damage caused by this script if you us
 
 ## <a id="content"></a>🌐 〢 Content
 
-- [🌌・Discord](https://discord.gg/n3YTbgqtR8)
+- [🌌・Discord](https://discord.gg/97P9XhxBPU)
 - [🎉・Setting up BuckledPepper](#setup)
 - [🔰・Features](#features)
 - [👁️・Features Explanation](#explanation)
